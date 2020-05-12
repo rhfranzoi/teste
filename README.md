@@ -17,7 +17,7 @@ Obs.: usar em navegador sem proxy
       * [2 Operação para detalhamento de uma lista de itens](#2-operação-para-detalhamento-de-uma-lista-de-itens)
         * [Request (default)](#Request(default))
         * [Filtros](#Filtros)
-        * [2.1.1 advertencias](#2.1.1-advertencias)
+        * [2.1.1 advertencias](#2-1-1-advertencias)
         * [2.1.2 alternativos](#2.1.2-alternativos)
         * [2.1.3 videos](#2.1.3-videos)
         * [2.1.4 participa-novo-pack](#2.1.4-participa-novo-pack)
