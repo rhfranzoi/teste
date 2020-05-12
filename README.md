@@ -298,7 +298,7 @@ filter=eans-alternativos&filter=presenteavel`
 }
 ```
 
-#### 2.1.2 alternativos
+#####2.1.1 advertencias
 
 - tipo: `DEFAULT`
 - query param:
