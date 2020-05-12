@@ -298,7 +298,7 @@ filter=eans-alternativos&filter=presenteavel`
 }
 ```
 
-##### 2.1.1 alternativos
+##### 2.1.2 alternativos
 
 - tipo: `DEFAULT`
 - query param:
@@ -2188,7 +2188,9 @@ filter=eans-alternativos&filter=presenteavel`
 ```
 
 
-#### 2.1.56 default (filtro para apresentar todos os tipo default, pode ser agregado com outros filtros não defaults)
+#### 2.1.56 default 
+(filtro para apresentar todos os tipo default, pode ser agregado com outros filtros não defaults)
+
 - tipo: DEFAULT
 - query param:
    `?filter=default`
