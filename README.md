@@ -14,7 +14,7 @@ Obs.: usar em navegador sem proxy
    * [Proxy](#proxy)   
    * [I. Operações de Itens](#i-operações-de-itens)
       * [1 Busca por código de barras](#1-busca-por-código-de-barras)
-      * [2 Operação para detalhamento de uma lista de itens](#2.-operação-para-detalhamento-de-uma-lista-de-itens)
+      * [2 Operação para detalhamento de uma lista de itens](#2-operação-para-detalhamento-de-uma-lista-de-itens)
         * [Request (default)](#Request(default))
         * [Filtros](#Filtros)
         * [2.1.1 advertencias](#2.1.1-advertencias)
