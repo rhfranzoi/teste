@@ -18,7 +18,7 @@ Obs.: usar em navegador sem proxy
         * [Request (default)](#request(default))
         * [Filtros](#filtros)
         * [2.1.1 advertencias](#2-1-1-advertencias)
-        * [2.1.2 alternativos](#2.1.2-alternativos)
+        * [2.1.2 alternativos](#2 1 2-alternativos)
         * [2.1.3 videos](#2.1.3-videos)
         * [2.1.4 participa-novo-pack](#2.1.4-participa-novo-pack)
         * [2.1.5 preco-base](#2.1.5-preco-base)
